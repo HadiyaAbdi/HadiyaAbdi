@@ -22,7 +22,7 @@ I'm passionate about using data to answer real-world questions through statistic
 ## 📂 Featured Projects
 
 - 🚨 Insurance Fraud Detection
-- 👶 ManyBabies Research Analysis
+- 📈 WellOnTheirWay Research Analysis
 - 🏡 Real Estate Financial Modeling
 - 🧬 PunnettPy Genetics Package
 - 🏛️ Mystery Mansion Adventure
